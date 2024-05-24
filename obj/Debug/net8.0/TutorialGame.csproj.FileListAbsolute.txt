@@ -1,0 +1,14 @@
+D:\Deakin\SIT771_OOP\TutorialGame\obj\Debug\net8.0\TutorialGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Deakin\SIT771_OOP\TutorialGame\obj\Debug\net8.0\TutorialGame.AssemblyInfoInputs.cache
+D:\Deakin\SIT771_OOP\TutorialGame\obj\Debug\net8.0\TutorialGame.AssemblyInfo.cs
+D:\Deakin\SIT771_OOP\TutorialGame\obj\Debug\net8.0\TutorialGame.csproj.CoreCompileInputs.cache
+D:\Deakin\SIT771_OOP\TutorialGame\bin\Debug\net8.0\TutorialGame.exe
+D:\Deakin\SIT771_OOP\TutorialGame\bin\Debug\net8.0\TutorialGame.deps.json
+D:\Deakin\SIT771_OOP\TutorialGame\bin\Debug\net8.0\TutorialGame.runtimeconfig.json
+D:\Deakin\SIT771_OOP\TutorialGame\bin\Debug\net8.0\TutorialGame.dll
+D:\Deakin\SIT771_OOP\TutorialGame\bin\Debug\net8.0\TutorialGame.pdb
+D:\Deakin\SIT771_OOP\TutorialGame\obj\Debug\net8.0\TutorialGame.dll
+D:\Deakin\SIT771_OOP\TutorialGame\obj\Debug\net8.0\refint\TutorialGame.dll
+D:\Deakin\SIT771_OOP\TutorialGame\obj\Debug\net8.0\TutorialGame.pdb
+D:\Deakin\SIT771_OOP\TutorialGame\obj\Debug\net8.0\TutorialGame.genruntimeconfig.cache
+D:\Deakin\SIT771_OOP\TutorialGame\obj\Debug\net8.0\ref\TutorialGame.dll
