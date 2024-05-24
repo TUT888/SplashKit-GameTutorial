@@ -10,7 +10,7 @@ This is a short tutorial on creating a simple game using SplashKit. The three ma
 
 As an example, this brief tutorial will implement a game named **ItemCatch**. 
 
-![Untitled](Tutorial%20on%20ItemCatch%20Game%20using%20C#%20SplashKit%206473e31927294509aa708e3968fa497a/Untitled.png)
+![Untitled](GameWindow.png)
 
 # 1. Identifying the game and ideas
 
